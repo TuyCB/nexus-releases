@@ -1,16 +1,16 @@
 {
-    "gerado":  "2026-11-08T16:30:43Z",
+    "gerado":  "2026-11-08T16:33:33Z",
     "apps":  [
                  {
                      "app":  "NexusBright",
                      "versao":  "1.0.0",
-                     "url":  "https://github.com/TuyCB/nexus-releases/releases/download/NexusBright/NexusBright-1.0.0-202611061708.zip",
-                     "tamanho":  255837,
-                     "sha256":  "8e7be2c2ff8b9f9f4d405b352bcc98a0b49223942c3d09266a144205c2fbdafe",
-                     "exe_sha256":  "ca984a5bdb1fde241aeec7e0b2523d04c2d10c77631eaaf8516cbf3b454ecb20",
-                     "publicado":  "2026-11-06T20:08:22Z",
+                     "url":  "https://github.com/TuyCB/nexus-releases/releases/download/NexusBright/NexusBright-1.0.0-202611081333.zip",
+                     "tamanho":  653501,
+                     "sha256":  "995c9b6424fd7aa3e090434ac24c06f6013a2ecf09298ebf48b23cdd7a3c3fe2",
+                     "exe_sha256":  "3f395a8b3a7e417c71f06d0258a58e4c32c965d0673b31f588f5a164b0a8ec50",
+                     "publicado":  "2026-11-08T16:33:32Z",
                      "descricao":  "Brilho do notebook e do monitor",
-                     "commit":  "3d9e45c",
+                     "commit":  "a99981c",
                      "icone":  "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"
                  },
                  {
