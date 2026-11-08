@@ -1,5 +1,5 @@
 {
-    "gerado":  "2026-11-08T16:41:42Z",
+    "gerado":  "2026-11-08T16:52:08Z",
     "apps":  [
                  {
                      "app":  "NexusBright",
@@ -76,13 +76,13 @@
                  {
                      "app":  "NexusDownloader",
                      "versao":  "1.0.0",
-                     "url":  "https://github.com/TuyCB/nexus-releases/releases/download/NexusDownloader/NexusDownloader-1.0.0-202611061405.zip",
-                     "tamanho":  15571480,
-                     "sha256":  "c0a30e8d4726b22977ffcd18cdc9ef3740d74c8533da2034050219c99eb8eef7",
-                     "exe_sha256":  "546c62765332c0bd25eaad1f1dcb24064cdbb8e7fbc07b89aa829fac1f7bf399",
-                     "publicado":  "2026-11-06T17:17:18Z",
+                     "url":  "https://github.com/TuyCB/nexus-releases/releases/download/NexusDownloader/NexusDownloader-1.0.0-202611081351.zip",
+                     "tamanho":  15951518,
+                     "sha256":  "4f63bce30c5769442c335a73529a33c1c740799b35101703028c9cea620d97cd",
+                     "exe_sha256":  "bc443e71588b4ff494787ad367c3fb69cf8c946b1175910fbe1d571c20d100ba",
+                     "publicado":  "2026-11-08T16:52:07Z",
                      "descricao":  "Baixa vídeos e cursos em fila",
-                     "commit":  "a58d011",
+                     "commit":  "2a61621",
                      "icone":  "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"
                  },
                  {
