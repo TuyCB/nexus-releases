@@ -1,5 +1,5 @@
 {
-    "gerado":  "2026-11-08T15:09:58Z",
+    "gerado":  "2026-11-08T15:10:06Z",
     "apps":  [
                  {
                      "app":  "NexusBright",
@@ -40,13 +40,13 @@
                  {
                      "app":  "NexusClone",
                      "versao":  "1.0.0",
-                     "url":  "https://github.com/TuyCB/nexus-releases/releases/download/NexusClone/NexusClone-1.0.0-202611081123.zip",
-                     "tamanho":  984802,
-                     "sha256":  "ff804f2a026557696f2bc75853094248e93cb3e799cbebfbb610cf2324cf21c9",
-                     "exe_sha256":  "70348abe78b7544cf96574118fb8560d4dbc06d9e8b25df522da464710651c72",
-                     "publicado":  "2026-11-08T14:23:39Z",
+                     "url":  "https://github.com/TuyCB/nexus-releases/releases/download/NexusClone/NexusClone-1.0.0-202611081210.zip",
+                     "tamanho":  984944,
+                     "sha256":  "a6bd5cb29dde6f2219e28d7fe9181ff5c9504444e4679ad9d568b21bf249dbe5",
+                     "exe_sha256":  "c83f5af085fdf4a0d804366f93a35bf165a0fef5701ae4575a30a9ee717bfbf5",
+                     "publicado":  "2026-11-08T15:10:05Z",
                      "descricao":  "Clona páginas e funis inteiros, com os vídeos",
-                     "commit":  "c9f4302",
+                     "commit":  "2c4ec26",
                      "icone":  "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"
                  },
                  {
